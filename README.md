@@ -1,7 +1,5 @@
 # TUF-GAMING-B660M-PLUS-WIFI-D4-i5-12490F-6900XT
-在@mmccg的大佬的EFI 成功引导Tahoe26.2.0 【参考https://bbs.pcbeta.com/viewthread-2054101-1-1.html】
-
-
+在@mmccg的大佬的EFI 成功引导Tahoe26.2.0 
 
 只能说不是很完美  留着存档
 
