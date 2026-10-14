@@ -37,5 +37,3 @@
 
 ![wifi也可以](assets/wifi也可以.png)
 
-![蓝牙](assets/蓝牙.png)
-
